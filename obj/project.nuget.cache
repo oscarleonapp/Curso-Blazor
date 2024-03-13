@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxnoPo4odJekAeVhF5kntM7MbCOsDTViiyOdoBFTPP2ohP2Y3DwwG90+9+RtpjBPTBJ60jVxcDRsTn+MvT+r8A==",
+  "dgSpecHash": "y8dnDSW27sgQ4dFldXKALdJJxM+mUEQG73Uv1IlBJwj3VsmNfDEZdX90i+2nDaCKr7bTAB36f4fb8Ywlrm1WyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oscar León\\Documents\\Blazor\\App-terminal\\App-terminal.csproj",
+  "projectFilePath": "C:\\Users\\Oscar León\\Documents\\Blazor\\Curso-Blazor\\App-terminal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oscar León\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\Oscar León\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",

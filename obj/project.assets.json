@@ -2062,11 +2062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oscar León\\Documents\\Blazor\\App-terminal\\App-terminal.csproj",
+      "projectUniqueName": "C:\\Users\\Oscar León\\Documents\\Blazor\\Curso-Blazor\\App-terminal.csproj",
       "projectName": "App-terminal",
-      "projectPath": "C:\\Users\\Oscar León\\Documents\\Blazor\\App-terminal\\App-terminal.csproj",
+      "projectPath": "C:\\Users\\Oscar León\\Documents\\Blazor\\Curso-Blazor\\App-terminal.csproj",
       "packagesPath": "C:\\Users\\Oscar León\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oscar León\\Documents\\Blazor\\App-terminal\\obj\\",
+      "outputPath": "C:\\Users\\Oscar León\\Documents\\Blazor\\Curso-Blazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oscar León\\AppData\\Roaming\\NuGet\\NuGet.Config",

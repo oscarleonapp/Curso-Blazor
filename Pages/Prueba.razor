@@ -1,5 +1,6 @@
 @page "/prueba"
+@inject NavigationManager NavigationManager;
 
 <PageTitle>Prueba</PageTitle>
-
+<button class="btn btn-dark" @onclick="@(()=> NavigationManager.NavigateTo("/weather"))">Home</button>
 <h2>Hola mundo desde mi primera App en Blazor</h2>

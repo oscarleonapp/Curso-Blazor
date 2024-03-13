@@ -1,7 +1,10 @@
 ﻿@page "/weather"
 @inject HttpClient Http
+@inject NavigationManager NavigationManager;
 
 <PageTitle>Weather</PageTitle>
+<button class="btn btn-dark" @onclick="@(()=> NavigationManager.NavigateTo("/counter"))">Counter</button>
+
 
 <h1>Weather</h1>
 
