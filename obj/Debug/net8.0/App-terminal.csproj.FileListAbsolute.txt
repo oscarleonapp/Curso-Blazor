@@ -2061,3 +2061,8 @@ C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\obj\Debug\net8.0\App-terminal
 C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\obj\Debug\net8.0\refint\App-terminal.dll
 C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\obj\Debug\net8.0\App-terminal.pdb
 C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\obj\Debug\net8.0\ref\App-terminal.dll
+C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm
+C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm.gz
+C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\bin\Debug\net8.0\Blazored.Toast.dll
+C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\obj\Debug\net8.0\webcil\Blazored.Toast.wasm
+C:\Users\Oscar León\Documents\Blazor\Curso-Blazor\obj\Debug\net8.0\compressed\zo58ohjva1.gz

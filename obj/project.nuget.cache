@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "y8dnDSW27sgQ4dFldXKALdJJxM+mUEQG73Uv1IlBJwj3VsmNfDEZdX90i+2nDaCKr7bTAB36f4fb8Ywlrm1WyA==",
+  "dgSpecHash": "PjNa9CYaxgDNLlnvGH3eIdio/6anfKtld2qCeqgAS0IKszSaehvyG2NjrZm+liN5/xnUzFsBgOPa69Gp6GePTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Oscar León\\Documents\\Blazor\\Curso-Blazor\\App-terminal.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Oscar León\\.nuget\\packages\\blazored.toast\\4.2.0\\blazored.toast.4.2.0.nupkg.sha512",
     "C:\\Users\\Oscar León\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\Oscar León\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",
     "C:\\Users\\Oscar León\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.2\\microsoft.aspnetcore.components.analyzers.8.0.2.nupkg.sha512",
