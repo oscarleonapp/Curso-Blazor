@@ -1,5 +1,9 @@
 @page "/prueba"
+@* Permite la navegación *@
 @inject NavigationManager NavigationManager;
+@* Injecta JS *@
+@inject IJSRuntime JSRuntime
+
 
 <PageTitle>Prueba</PageTitle>
 <button class="btn btn-dark" @onclick="@(()=> NavigationManager.NavigateTo("/weather"))">Home</button>
